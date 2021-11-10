@@ -4,6 +4,7 @@
 
 ### Elixir ###
 /_build
+/log
 /cover
 /deps
 /doc
